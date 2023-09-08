@@ -37,13 +37,16 @@ content:
   categories:
     - name: chatgpt镜像
       sites:
-        - name: chatgpt
+        - name: chatgpt1
+          description: 免费
+          url: https://c2.binjie.fun/
+        - name: chatgpt2
           description: GPT-3.5-16k免费使用，每日20次数，不需要登陆
           url: https://www.zxf7460.cn/home
         - name: 思研Chat
           description: 免费，限制每小时6次提问
           url: https://chat.ttext.cn/
-        - name: chatgpt
+        - name: chatgpt4
           description: 需翻墙，免费不受限制
           url: https://11eog.aitianhu.ink/
 
