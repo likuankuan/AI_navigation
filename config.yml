@@ -41,42 +41,42 @@ content:
     - name: chatgpt镜像
       sites:
         - name: chatgpt
-          description: GPT-3.5-16k免费使用，每日20次数，不需要登陆。
+          description: GPT-3.5-16k免费使用，每日20次数，不需要登陆
           url: https://www.zxf7460.cn/home
         - name: 思研Chat
-          description: 免费，限制每小时6次提问。
+          description: 免费，限制每小时6次提问
           url: https://chat.ttext.cn/
         - name: chatgpt
-          description: 需翻墙，免费不受限制。
+          description: 需翻墙，免费不受限制
           url: https://11eog.aitianhu.ink/
 
     - name: 国产大模型
       sites:
         - name: 文心一言
-          description: 需要百度账号登录。
+          description: 需要百度账号登录
           url: https://yiyan.baidu.com/
         - name: 通义大模型
-          description: 分为通义千问、通义万相、通义听悟，需要阿里账号登录。
+          description: 分为通义千问、通义万相、通义听悟，需要阿里账号登录
           url: https://tongyi.aliyun.com/
         - name: 百川大模型
-          description: 手机号登录。
+          description: 手机号登录
           url: https://www.baichuan-ai.com/
         - name: 讯飞星火
-          description: 手机号登录。
+          description: 手机号登录
           url: https://xinghuo.xfyun.cn/
         - name: 360智脑
-          description: 需申请内侧。
+          description: 需申请内侧
           url: https://ai.360.cn/
         - name: 腾讯混元大模型
-          description: 需申请内侧。
+          description: 需申请内侧
           url: https://hunyuan.tencent.com/
     - name: 文本转语音
       sites:
         - name: text-to-speech
-          description: 免费。
+          description: 免费
           url: https://www.text-to-speech.cn/
         - name: 剪映
-          description: 免费。
+          description: 免费
           url: https://www.capcut.cn/
 
     - name: 数字人
@@ -85,7 +85,7 @@ content:
           description:
           url: https://cloud.baidu.com/product/baidudigitalhumanlivestream.html/
         - name: 阿里虚拟数字人
-          description: 免费。
+          description: 
           url: https://www.aliyun.com/product/ai/avatar
         - name: 华为AI数字人
           description:
