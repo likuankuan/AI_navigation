@@ -14,7 +14,7 @@ url: https://likuankuan.github.io/AI_navigation/
 github: "https://github.com/likuankuan"
 
 # footer message
-footer: © 2021-2021 @likuankuan
+footer: © 2023-2023 @likuankuan
 
 # template(theme) of your site, available:
 # 1. webstack (http://webstack.cc)
@@ -30,11 +30,8 @@ webstack:
     # 可选的搜索引擎
     engines:
       - google
-      - github
-      - weibo
       - baidu
-      - bilibili
-      - zhihu
+      - bing
 
 content:
   categories:
@@ -53,46 +50,14 @@ content:
     - name: 国产大模型
       sites:
         - name: 文心一言
-          description: 需要百度账号登录
+          description: 聊天+AI绘画，需要百度账号登录
           url: https://yiyan.baidu.com/
         - name: 通义大模型
           description: 分为通义千问、通义万相、通义听悟，需要阿里账号登录
           url: https://tongyi.aliyun.com/
+        - name: 讯飞星火
+          description: 手机号登录
+          url: https://xinghuo.xfyun.cn/desk
         - name: 百川大模型
           description: 手机号登录
           url: https://www.baichuan-ai.com/
-        - name: 讯飞星火
-          description: 手机号登录
-          url: https://xinghuo.xfyun.cn/
-        - name: 360智脑
-          description: 需申请内侧
-          url: https://ai.360.cn/
-        - name: 腾讯混元大模型
-          description: 需申请内侧
-          url: https://hunyuan.tencent.com/
-    - name: 文本转语音
-      sites:
-        - name: text-to-speech
-          description: 免费
-          url: https://www.text-to-speech.cn/
-        - name: 剪映
-          description: 免费
-          url: https://www.capcut.cn/
-
-    - name: 数字人
-      sites:
-        - name: 百度智能云曦灵·数字人直播平台
-          description:
-          url: https://cloud.baidu.com/product/baidudigitalhumanlivestream.html/
-        - name: 阿里虚拟数字人
-          description: 
-          url: https://www.aliyun.com/product/ai/avatar
-        - name: 华为AI数字人
-          description:
-          url: https://www.huaweicloud.com/product/cbs/digitalhuman.html
-        - name: 小冰AI数字员工
-          description:
-          url: https://business.xiaoice.com/Home/AIBeing
-        - name: 腾讯智影
-          description:
-          url: https://zenvideo.qq.com/
